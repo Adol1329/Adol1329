@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer;UX+Designer;Creative+Problem+Solver&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 # Adolphe Uwayo 👨‍💻
@@ -9,12 +9,13 @@
 
 ## About Me 👋
 
-Passionate IT student at Adventist University of Central Africa, focusing on Information Management. I love solving technical challenges and staying current with emerging technologies.
+Passionate Front-End Developer and UX Designer, currently studying Information Technology at Adventist University of Central Africa (AUCA). I specialize in creating intuitive, responsive web interfaces that provide exceptional user experiences.
 
 ### 🔭 Current Focus
-- Web and software development projects
-- Learning advanced web technologies
-- Improving programming language proficiency
+- Creating responsive and accessible web applications
+- Expanding my React.js knowledge
+- Improving UI/UX design skills
+- Learning advanced animation techniques
 
 ### 📫 Connect With Me
 - 📧 Email: adolpheuwayo12@gmail.com
@@ -24,46 +25,72 @@ Passionate IT student at Adventist University of Central Africa, focusing on Inf
 
 ## 🛠️ Skills
 
-### Programming Languages
+### Front-End Development & UX Design
 ```
-Java       ██████████░░ 
-C/C++      ██████████░░
-PHP        ██████████░░
-JavaScript ██████████░░
-HTML/CSS   ██████████░░
-VB         ██████████░░
+HTML/CSS   ███████████░   70%
+JavaScript ████████░░░░   60%
+React.js   ███████░░░░░   55%
+UI Design  ████████░░░░   60%
+Figma      ██████░░░░░░   50%
+WordPress  ███████░░░░░   55%
 ```
 
-### Platforms & Tools
-- WordPress
-- Irembo services
+### Additional Skills
+- Responsive Web Design
+- User Experience (UX) Design
+- Web Accessibility
+- CSS Frameworks (Bootstrap, Tailwind)
+- Version Control (Git)
+- Prototyping & Wireframing
 
-### Soft Skills
-- Digital services expertise
-- Technical problem solving
-- Collaborative teamwork
+## 💼 Tools & Technologies
+- **Design:** Figma, Adobe XD
+- **Development:** VS Code, GitHub
+- **CMS:** WordPress
+- **Other:** Jira, Trello
 
 ## 🎓 Education
 Currently pursuing Information Technology with a focus on Information Management at **Adventist University of Central Africa (AUCA)**
 
 ## 🚀 Projects
 
-### VehicleTransfer
-A comprehensive vehicle transfer management system featuring:
-- User dashboard
-- Admin interface
-- Streamlined transfer processes
+### VehicleTransfer Web Interface
+A user-friendly vehicle transfer management system featuring:
+- Responsive dashboard design
+- Intuitive user interface
+- Accessibility-focused implementation
+- Cross-browser compatibility
 
-## 💡 Interests
-- 👯 Open to collaboration on web development and software engineering projects
-- 🤔 Seeking mentorship in advanced database management and system design
-- 💬 Always happy to discuss web development and programming
+
+
+## 💡 What I Bring to the Table
+- Strong eye for design and attention to detail
+- User-centered approach to development
+- Commitment to writing clean, maintainable code
+- Passion for creating accessible web experiences
+
+## 🌱 Learning & Growth
+- Currently exploring advanced React.js concepts
+- Studying user psychology to enhance UX design skills
+- Learning about the latest web design trends and best practices
+
+## 👯 Looking to Collaborate On
+- Innovative web development projects
+- UI/UX design challenges
+- Accessibility-focused web applications
+- Creative front-end solutions
+
+## 💬 Ask Me About
+- Front-end development best practices
+- UI/UX design principles
+- Responsive web design
+- WordPress customization
 
 ---
 
 ### ⚡ Fun Fact
-I'm constantly challenging myself with new tech problems and staying updated on the latest industry trends!
+I believe the best interfaces are the ones users don't even notice - they just work!
 
 <p align="center">
-<i>Let's connect and code something amazing together!</i>
+<i>Let's create beautiful and functional web experiences together!</i>
 </p>
